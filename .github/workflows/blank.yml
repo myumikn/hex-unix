@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: ações/checkout@v2
-        run: ./github/hex-unix/0x00-shell_basics/0-bring_me_home
+        run: ./.hex-unix/0x00-shell_basics/0-bring_me_home
