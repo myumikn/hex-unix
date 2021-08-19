@@ -1,2 +1,2 @@
-chmod +x ./scripts/moveFiles.sh #!/bin/bash
+#!/bin/bash
 cd ~
